@@ -143,3 +143,21 @@ ul {
 .hidden{
 	display:none;
 }
+
+.project_container {
+    display: flex;
+    align-items: center;
+}
+
+.project_image {
+      width: 150px; /* Adjust as needed */
+      height: auto; /* Maintain aspect ratio */
+      margin-right: 10px; /* Adjust spacing between image and text */
+	  margin-bottom: 5px;
+}
+
+.project_divider {
+	  margin-top: 5px;
+	  margin-bottom: 10px;
+}
+
